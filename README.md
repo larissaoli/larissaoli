@@ -1,7 +1,7 @@
 # Oiee! Eu sou a Larissa 🌸
 
 - 🔭 Atualmente estou concluindo a graduação em Engenharia Ambiental e entrando na área de ciência de dados
-- 🌱 Atualmente estou aprendendo mais sobre análise de dados e linguagens de programação apara aprimorar minhas habilidades
+- 🌱 Estou aprendendo mais sobre análise de dados e linguagens de programação apara aprimorar minhas habilidades
 - ⚡ Curiosidade: mãe de pet
 
 </div>
